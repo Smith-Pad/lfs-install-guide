@@ -1,1 +1,0 @@
-# lfs-install-guide
